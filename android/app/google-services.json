@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182019445869",
+    "project_id": "personal-b09bc",
+    "storage_bucket": "personal-b09bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182019445869:android:431c17c6f7847e9f675b64",
+        "android_client_info": {
+          "package_name": "com.krsoft.tictactoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5B2inT6lllz_Ii1Z08x1t6Lw3RlzUliA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
